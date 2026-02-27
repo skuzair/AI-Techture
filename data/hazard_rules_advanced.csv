@@ -1,0 +1,5 @@
+Hazard,Hazard_Weight,Structural_Weight,Foundation_Weight,Roof_Weight,Window_Weight,Structural_Recommendation,Foundation_Recommendation,Roof_Recommendation,Window_Recommendation
+Earthquake,0.95,0.95,0.7,0.6,0.7,Flexible reinforced frame with base isolation,Deep pile foundation with seismic joints,Lightweight roofing to reduce mass,Shatter-resistant emergency egress windows
+Flood,0.9,0.8,0.95,0.7,0.8,Elevated stilt-based structural system,Pier foundation with rapid drainage,Waterproof roofing with solar backup,Elevated reinforced waterproof glazing
+Landslide,0.85,0.9,0.95,0.7,0.6,Terraced slope-adaptive structural system,Retaining-wall reinforced deep piles,Reinforced waterproof roofing,Sealed debris-resistant glazing
+Heatwave,0.8,0.7,0.6,0.9,0.95,Passive cooling structural mass design,Thermally insulated slab,Reflective green roofing system,High ventilation shaded glazing

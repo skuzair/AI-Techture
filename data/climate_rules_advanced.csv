@@ -1,0 +1,10 @@
+Category,Severity_Level,Risk_Weight,Structural_Weight,Foundation_Weight,Roof_Weight,Window_Weight,Structural_Recommendation,Foundation_Recommendation,Roof_Recommendation,Window_Recommendation
+Elevation,High,0.9,0.9,0.7,0.8,0.7,Aerodynamic compact forms with wind-resistant structural systems,Deep pile foundations with reinforced anchoring,Steep pitched wind-resistant roofs,Reinforced wind-rated glazing with aerodynamic placement
+Elevation,Mid,0.5,0.6,0.5,0.5,0.5,Standard reinforced load-bearing frames,Reinforced slab foundation,Moderate slope roofing,Standard reinforced glazing
+Elevation,Low,0.3,0.3,0.4,0.4,0.4,Open-plan energy optimized layouts,Shallow reinforced footing,Flat or low-slope roof optimized for solar,Large glazing with thermal treatment
+Precipitation,High,0.9,0.9,0.9,0.9,0.8,Waterproof structural envelope with sealed joints,Elevated waterproof foundation with drainage layer,High-capacity drainage roofing with extended overhangs,Moisture-resistant window systems with drainage channels
+Precipitation,Mid,0.5,0.6,0.6,0.6,0.6,Standard moisture-protected structure,Moderate drainage foundation system,Standard guttered roofing,Standard water-resistant glazing
+Precipitation,Low,0.2,0.3,0.3,0.3,0.3,Minimal rain-focused reinforcement,Basic moisture barrier foundation,Flat roofing acceptable,Basic sealed window frames
+Weather,Hot,0.9,0.7,0.8,0.8,0.9,High thermal mass or reflective structural materials,Insulated slab to reduce heat gain,High-albedo or green roofing systems,Shaded operable windows with passive ventilation
+Weather,Cold,0.9,0.8,0.9,0.9,0.9,Compact insulated structural envelope,Frost-protected insulated foundation,High insulation snow-resistant roofing,Triple-glazed insulated windows
+Weather,Moderate,0.4,0.5,0.5,0.5,0.5,Balanced energy-efficient structural system,Standard insulated foundation,Standard insulated roofing,Balanced glazing and ventilation
