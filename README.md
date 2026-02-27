@@ -16,7 +16,7 @@ architectural and material recommendations.
 The system integrates:
 
 -   🌍 10,000+ geospatial environmental data points\
--   🌋 3,000+ earthquake records (energy + depth modeling)\
+-   🌋 2,000+ earthquake records (energy + depth modeling)\
 -   🌧 3,000+ landslide susceptibility records\
 -   🧱 Structured hazard, climate, and soil design rules
 
@@ -125,7 +125,7 @@ Outputs:
     ├── data/
     │   ├── climate_rules_advanced.csv
     │   ├── compiled_clean.csv          (~10,000 rows)
-    │   ├── earthquake_clean.csv        (~3,000 rows)
+    │   ├── earthquake_clean.csv        (~2,000 rows)
     │   ├── hazard_rules_advanced.csv
     │   ├── landslide_clean.csv         (~3,000 rows)
     │   ├── materials_clean.csv
