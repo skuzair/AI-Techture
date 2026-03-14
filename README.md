@@ -164,7 +164,7 @@ Outputs:
 
 ### Run Web Interface
 
-    python run.py
+    python src/aitechture/api/app.py
 
 Then open: http://127.0.0.1:5000
 
